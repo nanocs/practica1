@@ -4,6 +4,9 @@
 #include<stdlib.h>
 #include<windows.h>
 
+
+/* Prueba para github.com */
+
 typedef char TipoDato;
 typedef struct Nodo{
     TipoDato nom[30];
